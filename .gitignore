@@ -16,3 +16,4 @@ install/install
 install/install.exe
 install.lock
 conf/default.conf
+nohup.out
